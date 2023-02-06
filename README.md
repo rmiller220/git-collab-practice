@@ -1,7 +1,7 @@
-## Git Collaboration Practice
+# Git Collaboration Practice
 
-# Testing Work
+## Testing Work
 
-# Add more things here
+## Add more things here
 
 
